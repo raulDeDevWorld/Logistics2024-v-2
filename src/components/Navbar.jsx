@@ -268,7 +268,7 @@ export default function BottomNavigation({ rol }) {
                 <div className='relative grid grid-cols-2 gap-[20px] p-[20px] pt-[10px] '>
 
                 </div>
-            </div>
+            </div>   
         </div>
     </>
 }
